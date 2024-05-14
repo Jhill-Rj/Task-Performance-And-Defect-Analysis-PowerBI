@@ -23,4 +23,9 @@ department names, and office locations
 *	Received recognition for outstanding analytical skills and contributions to operational excellence initiatives.
 
 ## Upload Details
+* **Quality Analysis Dataset** - Excel File - Raw Data File
+* **Quality Analysis Final Dashboard** - PDF File - For Dashboard Reference
+* **Quality Analysis** - PBIX File - Power BI File containing the Dynamic Dashboard
+* **Task Performance & Defect Analysis Description** - PDF File - Details & Description of the project
+* **Task Performance and Defect Analysis in XYZ Company_PPT** - PDF File - A Presentation on the complete analysis
 
